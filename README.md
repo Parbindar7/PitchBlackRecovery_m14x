@@ -1,4 +1,4 @@
-Pitch Black Recovery (UNOFFICIAL) for Samsung Galaxy a14x
+Pitch Black Recovery (UNOFFICIAL) for Samsung Galaxy m14x
 
 Note:
 The Samsung Galaxy M14 5G and F14 5G share the same device tree. Therefore, if you use the M14X device tree to build PBRP, the resulting build will also be compatible with the F14 5G.
